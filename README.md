@@ -56,6 +56,14 @@ Plots a comparative ROC curve proving the severe vulnerability of high-gamma sig
 
 <img width="1918" height="922" alt="image" src="https://github.com/user-attachments/assets/b6dc4b89-7d23-458d-9df9-66e3139e77f4" />
 
+# References
+
+1. Device Physics: Yuan, R., Tiw, P.J., et al. (2023). "A neuromorphic physiological signal processing system based on $VO_{2}$ memristor for next-generation human-machine interface." Nature Communications.
+
+2. Neuromorphic Architecture: Sharifshazileh, M., et al. (2021). "An electronic neuromorphic system for real-time detection of high frequency oscillations (HFO) in intracranial EEG." Nature Communications.
+
+3. Power Constraints: Ali, A. H., & Navardi, M. (2024). "Energy-Aware FPGA Implementation of Spiking Neural Network with LIF Neurons." arXiv.
+
 
 
 
